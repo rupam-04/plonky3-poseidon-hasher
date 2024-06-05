@@ -1,5 +1,5 @@
 [package]
-name = "plonky3-poseidon-hasher"
+name = "plonky3-poseidon-parenthash-verifier"
 version = "0.1.0"
 edition = "2021"
 
